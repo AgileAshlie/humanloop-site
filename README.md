@@ -46,3 +46,6 @@ Additional offerings and resources may be added over time.
 ---
 
 *Human Loop is built slowly and intentionally. Not everything needs to be rushed to be real.*
+
+<!-- Internal note: This repo is intentionally minimal to start -->
+
